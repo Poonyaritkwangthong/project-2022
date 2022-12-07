@@ -13,57 +13,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-violet-300"> 
-<div class="py-4 grid gap-x-8 gap-y-4 grid-cols-3">
-   <h1 class="select-none ... text-8xl bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 ... text-white">Welcome To Drawing</h1>
+<body class="bg-gradient-to-r from-indigo-500 ...">
+<div class="navbar flex w-full box-decoration-clone bg-gradient-to-r from-indigo-600/70 to-pink-500/70 text-white px-2 ... ">
+   <div class="logospace-x-10 px-20 items-center text-white text-2xl font-extrabold ...">
+      <h1>Welcome To Drawing</h1>
+    </div> 
+    <div class="flex justify-end w-full space-x-10 px-20">
+    <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href="login.php">Login</a></button>
+    <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href="register.php">Register</a></button>
+   </div>
 </div>
-<div class="text-center grid grid-rows-3 grid-flow-col gap-4 bg-black">
-   <h2 class="row-span-2 col-span-2 ... text-5xl text-white">Prototype Project</h2>
+<div class="text-center text-3xl pt-6 font-extrabold ..."><h2 class="text-white">Program</h2></div>
+<div class="columns-3xs ... blur-none ... scale-100 ... pt-8 ... ">
+  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo8.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page1.php">การร่างภาพ</a></button>
+  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo4.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page2.php">กำหนดรายละเอียด</a></button>
+  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo3.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page3.php">ลงรายละเอียด</a></button>
+  </div>
+<div class="columns-3xs ... blur-none ... scale-100 ... pt-8 ... ">
+  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo5.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page4.php">ลงเงา</a></button>
+  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo6.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page5.php">ลงสี</a></button>
+  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo7.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page6.php">ตัดเส้น</a></button>
 </div>
-<table class="border-collapse border border-slate-400 ... border-black bg-black">
-   <thead>
-    <tr>
-      <th class="border border-slate-300 ... text-3xl text-white">Menu</th>
-   </tr>  
-   </thead>
-   <tbody>
-      <tr>
-         <td class="border border-slate-300 ... text-white">
-         <a href = "page1.php" >sketching</a>
-         </td>
-      </tr>
-      <tr>
-         <td class="border border-slate-300 ... text-white" >
-         <a href = "page2.php">set element</a>
-         </td>
-      </tr>
-      <tr>
-         <td class="border border-slate-300 ... text-white">
-         <a  href = "page3.php">detailing</a>
-         </td>
-      </tr>
-      <tr>
-         <td class="border border-slate-300 ... text-white">
-         <a  href = "page4.php">image shading</a>
-         </td>
-      </tr>
-      <tr>
-         <td class="border border-slate-300 ... text-white">
-         <a  href = "page5.php">coloring</a>
-         </td>
-      </tr>
-      <tr>
-         <td class="border border-slate-300 ... text-white">
-         <a href = "page6.php">line cutting</a>
-         </td>
-      </tr>
-    </tbody>
-</table>
-<div class="">
-   <h2>
+<div>
+<div class="flex justify-end ...">
+   <div class="box-content h-100 w-100 p-4 border- ...">
+    <p></p>
+   </div>
+</div>
 
-   </h2>
-</div>
 </body>
 </html>
