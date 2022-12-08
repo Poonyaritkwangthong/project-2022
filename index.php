@@ -24,15 +24,17 @@
    </div>
 </div>
 <div class="text-center text-3xl pt-6 font-extrabold ..."><h2 class="text-white">Program</h2></div>
-<div class="columns-3xs ... blur-none ... scale-100 ... pt-8 ... ">
-  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo8.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page1.php">การร่างภาพ</a></button>
-  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo4.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page2.php">กำหนดรายละเอียด</a></button>
-  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo3.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page3.php">ลงรายละเอียด</a></button>
+<div class="justify-center">
+  <div class="columns-3xs ... blur-none ... scale-100 ... pt-8 ... ">
+   <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo8.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg--500/50 shadow-lg shadow-cyan-500/50 ... text-2xl text-white" href = "page1.php">การร่างภาพ</a></button>
+   <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo4.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-cyan-500/50 shadow-lg shadow-cyan-500/50 ... text-2xl text-white" href = "page2.php">กำหนดรายละเอียด</a></button>
+   <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo3.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-cyan-500/50 shadow-lg shadow-cyan-500/50 ... text-2xl text-white" href = "page3.php">ลงรายละเอียด</a></button>
   </div>
-<div class="columns-3xs ... blur-none ... scale-100 ... pt-8 ... ">
-  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo5.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page4.php">ลงเงา</a></button>
-  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo6.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page5.php">ลงสี</a></button>
-  <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo7.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-red-500/50 shadow-lg shadow-red-500/50 ... text-2xl text-white" href = "page6.php">ตัดเส้น</a></button>
+  <div class="columns-3xs ... blur-none ... scale-100 ... pt-8 ... ">
+   <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo5.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-cyan-500/50 shadow-lg shadow-cyan-500/50 ... text-2xl text-white" href = "page4.php">ลงเงา</a></button>
+   <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo6.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-cyan-500/50 shadow-lg shadow-cyan-500/50 ... text-2xl text-white" href = "page5.php">ลงสี</a></button>
+   <img class="w-full aspect-video ..." style="background-image: url(...)" src="/6414421006/Project/photo7.jpg" /><button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ... rounded-r-xl ... p-4"><a class="bg-cyan-500/50 shadow-lg shadow-cyan-500/50 ... text-2xl text-white" href = "page6.php">ตัดเส้น</a></button>
+  </div>
 </div>
 <div>
 <div class="flex justify-end ...">

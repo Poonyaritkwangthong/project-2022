@@ -7,37 +7,57 @@
     <title>sketching</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <div class ="text-center">
-        <h1>
-            Sketching
-        </h1>
-    </div>
-    <div>
-        <h2>
-            การร่างภาพ คือ การกำหนดโครงสร้างคล่าวๆในภาพนั้นๆ
-        </h2>
-        <div>
+<body class="bg-red-50">
+        <div class="logospace-x-10 px-20 text-center bg-red-400/80 font-extrabold ...">
+           <h1 class="text-white text-4xl">
+             01.การร่างภาพ
+           </h1>
+        </div>
+    <div class="pt-6">
+        <div  class="static ... text-2xl text-center">
+          <div class="text-white inline-block align-baseline ... bg-red-300">
+            <h2>
+            การร่างภาพ คือ การวาดองค์ประกอบคล่าวๆ
+            </h2>
             <p>สมมุติว่าเราจะทำการวาดตัวละครที่เป็นผู้ชายสัก1คน</p>
             <p>กำหนดสัดส่วนของร่างกายว่าเราต้องการเเบบไหน ตามที่เราต้องการ</p>
-        </dive>
-        <ul class="list-inside ...">
-           <li>ตัวอย่างที่1</li>
-           <!-- ... -->
-        </ul>
-        <ul class="list-inside ...">
-           <li>ตัวอย่างที่2</li>
-           <!-- ... -->
-        </ul>
+          </div>
+        </div>
     </dive>
-    <div  class="flex space-x-4 ... grid-flow-col-dense">
-  <a class ="bg-slate-500 "href = "index.php">00</a>
-  <a class ="bg-slate-500 "href = "page1.php">01</a>
-  <a class ="bg-slate-500 "href = "page2.php">02</a>
-  <a class ="bg-slate-500 "href = "page3.php">03</a>
-  <a class ="bg-slate-500 "href = "page4.php">04</a>
-  <a class ="bg-slate-500 "href = "page5.php">05</a>
-  <a class ="bg-slate-500 "href = "page6.php">06</a>
+<div class="pt-6">
+        <div class="text-center">
+           <ul class="list-inside ...">
+             <li>ตัวอย่างที่1</li>
+        </div>
+</div>
+        <div class="flex justify-center pt-6">
+             <img class="aspect-video ..."src="/6414421006/Project/photo8.jpg" />
+        </div>
+<div class="text-center pt-6">
+<p>เริ่มจากกำหนดโครงสร้างของใบหน้าโดยการวาดวงกลม</p>
+</div>
+<div class="pt-6">
+        <div class="text-center">
+           <ul class="list-inside ...">
+             <li>ตัวอย่างที่2</li>
+        </div>
+</div>
+        <div class="flex justify-center pt-6">
+             <img class="aspect-video ..."src="/6414421006/Project/photo8.jpg" />
+        </div>
+<div class="text-center pt-6">
+<p>เริ่มจากกำหนดโครงสร้างของใบหน้าโดยการวาดวงกลม</p>
+</div>
+<div class="pt-8">
+    <div class="flex justify-center space-x-10 px-20">
+        <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href = "index.php">00</a></button>
+        <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href = "page1.php">01</a></button>
+        <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href = "page2.php">02</a></button>
+        <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href = "page3.php">03</a></button>
+        <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href = "page4.php">04</a></button>
+        <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href = "page5.php">05</a></button>
+        <button class="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover: duration-300 ..."><a href = "page6.php">06</a></button>
+    </div>
 </div>
 </body>
 </html>
