@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box ;
+}
+
+.main
+{
+    height: 400px;
+    width: 40%;
+    margin: 0 auto;
+    margin-top:200px;
+    border-radius: 30px;
+    background-color: #ee82ee;
+    border: 3px solid #616161;
+}
+.slide
+{
+    width: ;
+    height: ;
+    margin: ;
+    margin-top: ;
+    overflow: hidden;
+}
+.slide figure img
+{
+    width:;
+    height: ; 
+    float: ;
+}
+.slide figure
+{
+    position: ;
+    width: ;
+    margin: ;
+    margin-top: ;
+    animation: krutom 20s infinite linear;
+}
+@keyframes krutom {
+    0%{left:0%;}
+    15%{left: 0%;}
+    20%{left: 100%;}
+    35%{left: 100%;}
+    40%{left: 200%;}
+    60%{left: 200%;}
+    65%{left: 300%;}
+    80%{left: 300%;}
+    85%{left: 400%;}
+    100%{left: 400%;}
+}
+.img
+{
+    width: ;
+    height: ;
+    
+}
